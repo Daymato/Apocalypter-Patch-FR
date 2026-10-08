@@ -6,17 +6,19 @@ Patch de traduction française pour **Apocalypter**, fourni avec un installateur
 
 ## Télécharger le patch
 
-[Télécharger Apocalypter_Patch_FR.zip](Apocalypter_Patch_FR.zip)
+[Télécharger Apocalypter_Patch_FR.zip](https://github.com/Daymato/Patch-FR---Apocalypter/raw/refs/heads/main/Apocalypter_Patch_FR.zip)
 
 L'archive contient l'installateur, les données de traduction, les sources et un fichier `LIRE-MOI.md`.
 
 ## Prérequis
 
-- Windows avec **.NET Framework 4.5 ou ultérieur**.
+- Windows avec **[.NET Framework 4.5 ou ultérieur](https://dotnet.microsoft.com/download/dotnet-framework/net48)**.
 - Une installation du jeu contenant `Apocalypter.exe` et `Apocalypter_Data/data.unity3d`.
 - Plusieurs Go d'espace libre sur le disque du jeu pour les fichiers temporaires et la sauvegarde.
 
 Python n'est pas nécessaire pour installer le patch.
+
+Le lien Microsoft propose .NET Framework 4.8, compatible avec ce prérequis. Choisir le téléchargement **Runtime** pour exécuter le patch.
 
 ## Installer la traduction
 
